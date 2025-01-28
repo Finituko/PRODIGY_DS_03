@@ -1,5 +1,5 @@
 # PRODIGY_DS_03
-
+![Ds_3.png][https://github.com/Finituko/PRODIGY_DS_03/blob/1e89b04af8b97dfee02a9b28da6a09b0d2020603/Ds_3.PNG]
 # Decision Tree Classifier for Customer Purchase Prediction
 
 ## Overview
